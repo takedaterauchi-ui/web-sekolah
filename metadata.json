@@ -1,0 +1,6 @@
+{
+  "name": "SMA Nusantara Bangsa - Portal & PPDB Online",
+  "description": "Website resmi SMA Nusantara Bangsa: Portal Jadwal Pelajaran interaktif, Informasi Guru & Tenaga Pendidik, serta Pendaftaran Peserta Didik Baru (PPDB) daring terlengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
